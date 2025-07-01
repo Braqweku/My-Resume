@@ -721,15 +721,17 @@ section,
 }
 
 .hero h2 {
+  color: #20c997;
   margin: 0;
   font-size: 48px;
   font-weight: 700;
 }
 
 .hero p {
+  color: #20c997;
   margin: 10px 0 0 0;
   font-size: 24px;
-  color: var(--heading-color);
+
 }
 
 .hero .btn-get-started {
